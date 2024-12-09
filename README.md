@@ -9,8 +9,8 @@ Passionate about leveraging data for impactful results and committed to continuo
 * 🌍  I'm based in 10 Nasr Gaafar Street, Qalyub, Al Qalyubiyah, Egypt
 * 🖥️  See my portfolio at [https://www.upwork.com/freelancers/mahmouda203](http://www.upwork.com)
 * ✉️  You can contact me at [mahmoud\_abdallah20@outlook.com](mailto:mahmoud_abdallah20@outlook.com)
-* 🚀  I'm currently working on [Power Automate Flow](http://https://www.upwork.com/nx/wm/workroom/38838951/overview)
-* 🧠  I'm learning Automation solution architecture On UiPath.org
+* 🚀  I'm currently working on skill myself up main resources is CISCO learning academy and IBM Skill Build.
+* 🧠  I'm learning Data analysis & Machine learning technical skills and applied some prjects in Healthcare feild try to merge Power Platform soultions for every insights I finish.
 * 🤝  I'm open to collaborating on Low-Code Application Development, Machine Learning Projects, Data Analysis and Visualization, Database Management & Educational Programs.
 * ⚡  Anyone Is Afraid Of Climbing The Mountains, Be In The Holes Forever.
 
