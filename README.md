@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MAHMOUD ABDALLAH
 ========================================================================================================================================
 
-Jr.AI-Driven Power Platform Solutions Architect
+Junior Data Analyst & Machine Learning Enthusiast | Power Platform Specialist
 -----------------------------------------------
 
-A Junior Power Platform Developer with experience in data manipulation, visualization, and machine learning. Specialized knowledge in SQL, Python, and the Microsoft Power Platform & providing actionable insights using data analysis and visualization.
-
+Skilled in uncovering data patterns, creating predictive models, and delivering actionable insights. Experienced with Python, R, SQL, and Microsoft Power BI. 
+Passionate about leveraging data for impactful results and committed to continuous learning.
 * 🌍  I'm based in 10 Nasr Gaafar Street, Qalyub, Al Qalyubiyah, Egypt
 * 🖥️  See my portfolio at [https://www.upwork.com/freelancers/mahmouda203](http://www.upwork.com)
 * ✉️  You can contact me at [mahmoud\_abdallah20@outlook.com](mailto:mahmoud_abdallah20@outlook.com)
