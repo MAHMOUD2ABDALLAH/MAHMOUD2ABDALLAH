@@ -9,7 +9,7 @@ Passionate about leveraging data for impactful results and committed to continuo
 * 🌍  I'm based in 7 Nasr Gaafar Street, Qalyub, Al Qalyubiyah, Egypt
 * 🖥️  See my portfolio at [https://www.upwork.com/freelancers/mahmouda203](http://www.upwork.com)
 * ✉️  You can contact me at [mahmoud\_abdallah20@outlook.com](mailto:mahmoud_abdallah20@outlook.com)
-* 🚀  I'm currently working on skilling myself up main resources is CISCO learning academy and IBM Skill Build and I am looking for new fit chance to prove myself in terms of my experience and in terms of my competence.
+* 🚀  I'm currently working on skilling myself up main resources is CISCO learning academy and IBM Skill Build and I am looking for new fit chance to prove myself in terms of my experience and competence.
 * 🧠  I'm learning Data analysis & Machine learning technical skills and applied some prjects in Healthcare feild try to merge Power Platform soultions for every insights I finish.
 * 🤝  I'm open to collaborating on Low-Code Application Development, Machine Learning Projects, Data Analysis and Visualization, Database Management & Educational Programs.
 * ⚡  Anyone Is Afraid Of Climbing The Mountains, Be In The Holes Forever.
