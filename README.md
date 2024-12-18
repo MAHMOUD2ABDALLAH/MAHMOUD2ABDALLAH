@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MAHMOUD ABDALLAH
 ========================================================================================================================================
 
-Junior Data Analyst & Machine Learning Enthusiast | Power Platform Specialist
+Junior Data Analyst and Power Platform Specialist
 -----------------------------------------------
 
 Skilled in uncovering data patterns, creating predictive models, and delivering actionable insights. Experienced with Python, R, SQL, and Microsoft Power BI. 
