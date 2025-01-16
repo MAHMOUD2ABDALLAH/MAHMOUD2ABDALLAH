@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MAHMOUD ABDALLAH
 ========================================================================================================================================
 
-Data Analyst & Machine Learning Specialist with Experience in Power Platform & Process Automation
+Junior Data Scientist | Python | SQL | Power BI | Machine Learning & Power Platform Specialist
 -----------------------------------------------
 
 Skilled in uncovering data patterns, creating predictive models, and delivering actionable insights. Experienced with Python, R, SQL, Microsoft Power BI & Tableau. 
@@ -10,8 +10,8 @@ Passionate about leveraging data for impactful results and committed to continuo
 * 🖥️  See my portfolio at [https://www.upwork.com/freelancers/mahmouda203](http://www.upwork.com)
 * ✉️  You can contact me at [mahmoud\_abdallah20@outlook.com](mailto:mahmoud_abdallah20@outlook.com)
 * 🚀  I'm currently working on skilling myself up main resources is CISCO learning academy and IBM Skill Build and I am looking for new fit chance to prove myself in terms of my experience and competence.
-* 🧠  I'm learning Data analysis, Modern AI & Machine learning technical skills and applied some prjects in Healthcare feild try to merge Power Platform soultions for every insights I finish.
-* 🤝  I'm open to collaborating on Low-Code Application Development, Machine Learning Projects, Data Analysis and Visualization, Database Management & Educational Programs.
+* 🧠  I'm learning Data analysis, Modern AI & Machine learning technical skills and applied some prjects in Healthcare feild.
+* 🤝  I'm open to collaborating on Low-Code Application Development, Machine Learning Projects, Data Science ,Data Analysis and Dat Visualization, Database Management & Educational Programs.
 * ⚡  Anyone Is Afraid Of Climbing The Mountains, Be In The Holes Forever.
 
 ### Skills
@@ -38,6 +38,24 @@ Passionate about leveraging data for impactful results and committed to continuo
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" 
+ width="36" height="36" alt="TensorFlow" /> 
+  </a>
+  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
+    <img src="https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikit-learn" />
+  </a>
+  <a href="https://www.scipy.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/scipy/scipy/blob/main/doc/source/_static/logo.svg" width="36" height="36" alt="SciPy" />
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://commons.wikimedia.org/wiki/File:NumPy_logo_2020.svg" width="36" height="36" alt="NumPy" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://commons.wikimedia.org/wiki/File:Pandas_logo.svg" width="36" height="36" alt="Pandas" />
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://brandfetch.com/matplotlib.org" width="36" height="36" alt="Matplotlib" />
   </a>
   <a href="https://filebase.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" />
@@ -75,7 +93,6 @@ Passionate about leveraging data for impactful results and committed to continuo
 </p>
 
 
-</p>
 
 
 
