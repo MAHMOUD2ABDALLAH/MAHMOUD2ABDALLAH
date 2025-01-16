@@ -43,19 +43,20 @@ Passionate about leveraging data for impactful results and committed to continuo
  width="36" height="36" alt="TensorFlow" /> 
   </a>
   <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
-    <img src="https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikit-learn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikit-learn" />
   </a>
   <a href="https://www.scipy.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/scipy/scipy/blob/main/doc/source/_static/logo.svg" width="36" height="36" alt="SciPy" />
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://commons.wikimedia.org/wiki/File:NumPy_logo_2020.svg" width="36" height="36" alt="NumPy" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="36" height="36" alt="NumPy" />
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://commons.wikimedia.org/wiki/File:Pandas_logo.svg" width="36" height="36" alt="Pandas" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="36" height="36" alt="Pandas" />
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://brandfetch.com/matplotlib.org" width="36" height="36" alt="Matplotlib" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="36" height="36" alt="Matplotlib" />
+  </a>
   </a>
   <a href="https://filebase.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" />
