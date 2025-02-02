@@ -6,7 +6,7 @@ Junior Data Analyst | Python | SQL | Power BI | Machine Learning & Power Platfor
 
 Skilled in uncovering data patterns, creating predictive models, and delivering actionable insights. Experienced with Python, R, SQL, Microsoft Power BI & Tableau. 
 Passionate about leveraging data for impactful results and committed to continuous learning.
-* 🌍  I'm based in 7 Nasr Gaafar Street, Qalyub, Al Qalyubiyah, Egypt
+* 🌍  I'm based in 7 Nasr Gaafar Street, Qalyub, Al Qalyubiyah, Egypt | District Bilal Ibn Rabah, Al-Rayhan, Sabya, Saudi Arabia.
 * 🖥️  See my portfolio at [https://www.upwork.com/freelancers/mahmouda203](http://www.upwork.com)
 * ✉️  You can contact me at [mahmoud\_abdallah20@outlook.com](mailto:mahmoud_abdallah20@outlook.com)
 * 🚀  I'm currently working on skilling myself up main resources is CISCO learning academy and IBM Skill Build and I am looking for new fit chance to prove myself in terms of my experience and competence.
