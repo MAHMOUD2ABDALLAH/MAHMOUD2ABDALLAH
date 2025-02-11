@@ -4,15 +4,39 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Data Analyst | Python | SQL | Power BI | Machine Learning & Power Platform Specialist
 -----------------------------------------------
 
-Skilled in uncovering data patterns, creating predictive models, and delivering actionable insights. Experienced with Python, R, SQL, Microsoft Power BI & Tableau. 
-Passionate about leveraging data for impactful results and committed to continuous learning.
-* 🌍  I'm based in 7 Nasr Gaafar Street, Qalyub, Al Qalyubiyah, Egypt | District Bilal Ibn Rabah, Al-Rayhan, Sabya, Saudi Arabia.
-* 🖥️  See my portfolio at [https://www.upwork.com/freelancers/mahmouda203](http://www.upwork.com)
-* ✉️  You can contact me at [mahmoud\_abdallah20@outlook.com](mailto:mahmoud_abdallah20@outlook.com)
-* 🚀  I'm currently working on skilling myself up main resources is CISCO learning academy and IBM Skill Build and I am looking for new fit chance to prove myself in terms of my experience and competence.
-* 🧠  I'm learning Data analysis, Modern AI & Machine learning technical skills and applied some prjects in Healthcare feild.
-* 🤝  I'm open to collaborating on Low-Code Application Development, Machine Learning Projects, Data Science ,Data Analysis and Dat Visualization, Database Management & Educational Programs.
-* ⚡  Anyone Is Afraid Of Climbing The Mountains, Be In The Holes Forever.
+A passionate Junior Data Analyst with 1+ years of experence in Machine learning, I thrive in transforming complex data into actionable insights and developing innovative solutions.
+
+💼 Professional Experience
+
+Data Analytics & Machine Learning Specialist at Upwork
+* Developed data models, algorithms, and interactive dashboards to enable data-driven decision-making for clients.
+* Analyzed large datasets to identify trends, patterns, and actionable insights.
+________________________________________________________________________________
+
+🔍 Projects
+
+Animal Shelter Home
+* Utilized data analysis techniques to optimize the relocation process for national shelters.
+* Developed a predictive model to anticipate shelter needs and resource allocation.
+
+Mobile Ventilator
+* Designed and implemented a data-driven model for a mobile ventilator to assist in medical emergencies.
+* Collaborated with cross-functional teams to ensure the project met technical and regulatory standards.
+________________________________________________________________________________________________________
+📚 Education
+* Bachelor's in Computer and Information Science , Information System,
+Ain Shams University
+________________________________________________________________________________________________________
+🛠️ Core Skills
+* Programming Languages: Python, R, SQL, Java, C#, C++.
+* Data Analysis Tools: Excel, Power BI, Tableau, TensorFlow, Scikit-Learn, Pandas, NumPy, SciPy, Seaborn, Matplotlib.
+* Technical Expertise: Data cleaning, preprocessing, predictive modeling, and machine learning
+* Additional Skills: Strong analytical and research abilities, Storytelling, excellent communication and presentation skills
+________________________________________________________________________________________________________
+🌟 Key Attributes
+* Proactive: Consistently seeks feedback for continuous improvement and learning.
+* Results-Driven: Committed to achieving and exceeding goals through diligent work and innovation.
+* Collaborative: Enjoys working with others to solve problems and create impactful solutions.
 
 ### Skills
 
