@@ -8,37 +8,39 @@ A passionate Junior Data Analyst with 1+ years of experence in Machine learning,
 
 💼 Professional Experience
 
-Data Analytics & Machine Learning Specialist at Upwork
-* Developed data models, algorithms, and interactive dashboards to enable data-driven decision-making for clients.
-* Analyzed large datasets to identify trends, patterns, and actionable insights.
-________________________________________________________________________________
+### Data Analytics & Machine Learning Specialist 
+**Upwork-Freelancer**
+- Increased data interpretation accuracy by 90%, improving decision-making by 25%. 
+- Boosted deliverable quality by 15% through thorough analysis, leading to higher client satisfaction. 
+- Achieved 90% precision in relationship classification, enhancing data interpretation insights. 
+- Reduced data errors by 15% via improved cleansing and preprocessing. 
 
-🔍 Projects
+### DEMI Coding Instructor
+**iSchool-Seasonal**
+- Taught programming, dedicating 40% of the curriculum to direct coding practice.
+- Trained 600+ students in software development, achieving a 90% course completion rate.
+- Increased student engagement by 85%, fostering an interactive learning environment.
 
-Animal Shelter Home
-* Utilized data analysis techniques to optimize the relocation process for national shelters.
-* Developed a predictive model to anticipate shelter needs and resource allocation.
+### Microsoft Certified Low-Code Maker 
+**Microsoft Power Platform Community-Internship**
+- Built a Power Platform solution meeting all 4 Power Up challenge requirements.
+- Demonstrated 85% proficiency in app development, automation, and dashboards.
 
-Mobile Ventilator
-* Designed and implemented a data-driven model for a mobile ventilator to assist in medical emergencies.
-* Collaborated with cross-functional teams to ensure the project met technical and regulatory standards.
+### Team Supervisor 
+**OnCall-Full-time**
+- Reduced response times from 60 to 45 minutes, improving customer satisfaction.
+- Led a 12-member team, enhancing efficiency by 25% through process improvements.
+- Delivered 3+ critical projects on time and within budget.
 ________________________________________________________________________________________________________
 📚 Education
-* Bachelor's in Computer and Information Science , Information System,
-Ain Shams University
-________________________________________________________________________________________________________
-🛠️ Core Skills
-* Programming Languages: Python, R, SQL, Java, C#, C++.
-* Data Analysis Tools: Excel, Power BI, Tableau, TensorFlow, Scikit-Learn, Pandas, NumPy, SciPy, Seaborn, Matplotlib.
-* Technical Expertise: Data cleaning, preprocessing, predictive modeling, and machine learning
-* Additional Skills: Strong analytical and research abilities, Storytelling, excellent communication and presentation skills
+* Bachelor's in Computer and Information Science , Information System, Ain Shams University
 ________________________________________________________________________________________________________
 🌟 Key Attributes
 * Proactive: Consistently seeks feedback for continuous improvement and learning.
 * Results-Driven: Committed to achieving and exceeding goals through diligent work and innovation.
 * Collaborative: Enjoys working with others to solve problems and create impactful solutions.
 
-### Skills
+### 🛠️ Skills
 
 
 <p align="left">
