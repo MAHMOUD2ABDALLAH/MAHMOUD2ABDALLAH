@@ -1,12 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MAHMOUD ABDALLAH
+ Hi! ![](https://github.com/user-attachments/assets/957cb358-ca44-4059-8c99-a15f5ac77890)My name is Mahmoud Abdallah
 ========================================================================================================================================
+### Junior Data Analyst | Python | SQL | Power BI | Machine Learning & Power Platform Specialist
 
-Junior Data Analyst | Python | SQL | Power BI | Machine Learning & Power Platform Specialist
------------------------------------------------
 
-A passionate Junior Data Analyst with 1+ years of experence in Machine learning, I thrive in transforming complex data into actionable insights and developing innovative solutions.
-
-💼 Professional Experience
+**Entry-level data analyst with 1+ year of experience in developing data models, optimizing prediction accuracy, and improving data quality. 
+I am proficient in programming languages, data analysis tools, and visualization software. 
+Known for being adaptive and collaborative, with a strong commitment to contributing to innovative projects and delivering high-quality results.**
+--------------------------------------------------------------------
+### 💼 Professional Experience
 
 ### Data Analytics & Machine Learning Specialist 
 **Upwork-Freelancer**
@@ -32,10 +33,11 @@ A passionate Junior Data Analyst with 1+ years of experence in Machine learning,
 - Led a 12-member team, enhancing efficiency by 25% through process improvements.
 - Delivered 3+ critical projects on time and within budget.
 ________________________________________________________________________________________________________
-📚 Education
-* Bachelor's in Computer and Information Science , Information System, Ain Shams University
+### 📚 Education
+### Bachelor's in Computer and Information Science, Information System 
+**Ain Shams University**
 ________________________________________________________________________________________________________
-🌟 Key Attributes
+### 🌟 Key Attributes
 * Proactive: Consistently seeks feedback for continuous improvement and learning.
 * Results-Driven: Committed to achieving and exceeding goals through diligent work and innovation.
 * Collaborative: Enjoys working with others to solve problems and create impactful solutions.
