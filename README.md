@@ -2,11 +2,17 @@
 ========================================================================================================================================
 ### Junior Data Analyst | Python | SQL | Power BI | Machine Learning & Power Platform Specialist
 
+---
 
-**Entry-level data analyst with 1+ year of experience in developing data models, optimizing prediction accuracy, and improving data quality. 
-I am proficient in programming languages, data analysis tools, and visualization software. 
-Known for being adaptive and collaborative, with a strong commitment to contributing to innovative projects and delivering high-quality results.**
---------------------------------------------------------------------
+###👋 About Me
+
+I am an entry-level Data Analyst with over 1 year of experience in developing data models, optimizing prediction accuracy, and enhancing data quality. I am proficient in various programming languages, data analysis tools, and visualization software, enabling me to turn complex datasets into actionable insights. 
+
+Known for my adaptability and strong collaboration skills, I thrive in team environments and am committed to contributing to innovative projects and delivering high-quality results. 
+
+---
+
+
 ### 💼 Professional Experience
 
 ### Data Analytics & Machine Learning Specialist 
