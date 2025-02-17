@@ -5,7 +5,9 @@
 
 ### 👋 About Me
 
-I am an entry-level Data Analyst with over 1 year of experience in developing data models, optimizing prediction accuracy, and enhancing data quality. I am proficient in various programming languages, data analysis tools, and visualization software, enabling me to turn complex datasets into actionable insights. 
+I am an entry-level Data Analyst with over 1 year of experience in developing data models, optimizing prediction accuracy, and enhancing data quality. 
+
+I am proficient in various programming languages, data analysis tools, and visualization software, enabling me to turn complex datasets into actionable insights. 
 
 Known for my adaptability and strong collaboration skills, I thrive in team environments and am committed to contributing to innovative projects and delivering high-quality results. 
 
