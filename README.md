@@ -2,7 +2,6 @@
 ========================================================================================================================================
 ### Junior Data Analyst | Python | SQL | Power BI | Machine Learning & Power Platform Specialist
 
----
 
 ### 👋 About Me
 
@@ -10,7 +9,6 @@ I am an entry-level Data Analyst with over 1 year of experience in developing da
 
 Known for my adaptability and strong collaboration skills, I thrive in team environments and am committed to contributing to innovative projects and delivering high-quality results. 
 
----
 
 
 ### 💼 Professional Experience
@@ -38,11 +36,11 @@ Known for my adaptability and strong collaboration skills, I thrive in team envi
 - Reduced response times from 60 to 45 minutes, improving customer satisfaction.
 - Led a 12-member team, enhancing efficiency by 25% through process improvements.
 - Delivered 3+ critical projects on time and within budget.
-________________________________________________________________________________________________________
+
 ### 📚 Education
 ### Bachelor's in Computer and Information Science, Information System 
 **Ain Shams University**
-________________________________________________________________________________________________________
+
 ### 🌟 Key Attributes
 * Proactive: Consistently seeks feedback for continuous improvement and learning.
 * Results-Driven: Committed to achieving and exceeding goals through diligent work and innovation.
@@ -126,12 +124,6 @@ ________________________________________________________________________________
     <img src="CopilotStudio_scalable.svg" width="36" height="36" alt="Copilot Studio" />
   </a>
 </p>
-
-
-
-
-
-
 
 
 
