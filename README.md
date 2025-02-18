@@ -1,132 +1,95 @@
- Hi! ![](https://github.com/user-attachments/assets/957cb358-ca44-4059-8c99-a15f5ac77890)My name is Mahmoud Abdallah
-========================================================================================================================================
-### Junior Data Analyst | Python | SQL | Power BI | Machine Learning & Power Platform Specialist
+  
+# **MAHMOUD ABDALLAH** ![(413719182-957cb358-ca44-4059-8c99-a15f5ac77890](https://github.com/user-attachments/assets/522003d8-7b49-4e66-85b8-ed0f0d26d5e5)
+**Junior Data Analyst | Python | SQL | Power BI | Machine Learning & Power Platform Specialist**  
 
+🌍 **Location:** Egypt | 📧 **[Mahmoud_abdallah20@outlook.com](mailto:Mahmoud_abdallah20@outlook.com)** | 🔗 **[LinkedIn](https://www.linkedin.com/in/mahmoud-abdallah20/)**  
 
-### 👋 About Me
+---
 
-- I am an entry-level Data Analyst with over 1 year of experience in developing data models, optimizing prediction accuracy, and enhancing data quality. 
-- I am proficient in various programming languages, data analysis tools, and visualization software, enabling me to turn complex datasets into actionable insights. 
-- Known for my adaptability and strong collaboration skills, I thrive in team environments and am committed to contributing to innovative projects and delivering high-quality results. 
+## 👋 **About Me**  
+I’m a passionate **Data Analyst** with over **1 year of experience** in transforming raw data into actionable insights. My expertise spans:  
+✅ **Data Modeling** – Structuring and optimizing datasets for improved analysis.  
+✅ **Machine Learning** – Enhancing prediction accuracy and automating decision-making.  
+✅ **Data Quality & Optimization** – Cleaning and preprocessing data to drive business insights.  
+✅ **Low-Code Development** – Creating Power Platform solutions for workflow automation.  
 
+I'm proactive, results-driven, and always eager to learn! 🚀  
 
+---
 
-### 💼 Professional Experience
+## 💼 **Professional Experience**  
 
-### Data Analytics & Machine Learning Specialist 
-**Upwork-Freelancer**
-- Increased data interpretation accuracy by 90%, improving decision-making by 25%. 
-- Boosted deliverable quality by 15% through thorough analysis, leading to higher client satisfaction. 
-- Achieved 90% precision in relationship classification, enhancing data interpretation insights. 
-- Reduced data errors by 15% via improved cleansing and preprocessing. 
+### 📊 **Data Analytics & Machine Learning Specialist** – *Upwork (Freelancer)*  
+- 📈 Improved data interpretation accuracy by **90%**, boosting decision-making efficiency by **25%**.  
+- ✅ Achieved **90% precision** in relationship classification, enhancing data-driven insights.  
+- 🛠️ Reduced data errors by **15%** through advanced cleansing and preprocessing techniques.  
 
-### DEMI Coding Instructor
-**iSchool-Seasonal**
-- Taught programming, dedicating 40% of the curriculum to direct coding practice.
-- Trained 600+ students in software development, achieving a 90% course completion rate.
-- Increased student engagement by 85%, fostering an interactive learning environment.
+### 👨‍🏫 **DEMI Coding Instructor** – *iSchool (Seasonal)*  
+- 🎓 Trained **600+ students** in programming and software development.  
+- 🔥 Achieved a **90% course completion rate**, fostering an engaging learning environment.  
 
-### Microsoft Certified Low-Code Maker 
-**Microsoft Power Platform Community-Internship**
-- Built a Power Platform solution meeting all 4 Power Up challenge requirements.
-- Demonstrated 85% proficiency in app development, automation, and dashboards.
+### 🔹 **Microsoft Certified Low-Code Maker** – *Microsoft Power Platform Community (Internship)*  
+- 🏆 Developed a Power Platform solution meeting **100% of Power Up challenge requirements**.  
+- ⚡ Demonstrated **85% proficiency** in app development, automation, and dashboards.  
 
-### Team Supervisor 
-**OnCall-Full-time**
-- Reduced response times from 60 to 45 minutes, improving customer satisfaction.
-- Led a 12-member team, enhancing efficiency by 25% through process improvements.
-- Delivered 3+ critical projects on time and within budget.
+### 👥 **Team Supervisor** – *OnCall (Full-Time)*  
+- ⏳ Reduced response times from **60 to 45 minutes**, enhancing customer satisfaction.  
+- 📌 Led a **12-member team**, increasing operational efficiency by **25%**.  
 
-### 📚 Education
-### Bachelor's in Computer and Information Science, Information System 
-**Ain Shams University**
+---
 
-### 🌟 Key Attributes
-* Proactive: Consistently seeks feedback for continuous improvement and learning.
-* Results-Driven: Committed to achieving and exceeding goals through diligent work and innovation.
-* Collaborative: Enjoys working with others to solve problems and create impactful solutions.
+## 🎓 **Education**  
+**🎓 Bachelor's in Computer and Information Science (Information Systems)** – *Ain Shams University*  
 
-### 🛠️ Skills
+---
 
+## 🔥 **Technical Skills**  
+### 🚀 **Programming & Data Analytics:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 
-<p align="left">
-  <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="R Language" />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" 
- width="36" height="36" alt="TensorFlow" /> 
-  </a>
-  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikit-learn" />
-  </a>
-  <a href="https://www.scipy.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/scipy/scipy/blob/main/doc/source/_static/logo.svg" width="36" height="36" alt="SciPy" />
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="36" height="36" alt="NumPy" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="36" height="36" alt="Pandas" />
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="36" height="36" alt="Matplotlib" />
-  </a>
-  </a>
-  <a href="https://filebase.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" />
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
-  </a>
-  <a href="https://learnwithpowerup-my.sharepoint.com/:f:/g/personal/mahmoud_abdallah20_learnwithpowerup_onmicrosoft_com/EssSSYLiLLlAvqX83yEEWLcBPBQG44BNHSgrlv0GLldwjQ?e=2UyXqM" target="_blank" rel="noreferrer">
-    <img src="PowerPlatform_scalable.svg" width="36" height="36" alt="Power Platform" />
-  </a>
-  <a href="https://learnwithpowerup-my.sharepoint.com/:f:/g/personal/mahmoud_abdallah20_learnwithpowerup_onmicrosoft_com/EssSSYLiLLlAvqX83yEEWLcBPBQG44BNHSgrlv0GLldwjQ?e=2UyXqM" target="_blank" rel="noreferrer">
-    <img src="PowerBI_scalable.svg" width="36" height="36" alt="Power BI" />
-  </a>
-  <a href="https://learnwithpowerup-my.sharepoint.com/:f:/g/personal/mahmoud_abdallah20_learnwithpowerup_onmicrosoft_com/EssSSYLiLLlAvqX83yEEWLcBPBQG44BNHSgrlv0GLldwjQ?e=2UyXqM" target="_blank" rel="noreferrer">
-    <img src="PowerApps_scalable.svg" width="36" height="36" alt="Power Apps" />
-  </a>
-  <a href="https://learnwithpowerup-my.sharepoint.com/:f:/g/personal/mahmoud_abdallah20_learnwithpowerup_onmicrosoft_com/EssSSYLiLLlAvqX83yEEWLcBPBQG44BNHSgrlv0GLldwjQ?e=2UyXqM" target="_blank" rel="noreferrer">
-    <img src="PowerAutomate_scalable.svg" width="36" height="36" alt="Power Automate" />
-  </a>
-  <a href="https://learnwithpowerup-my.sharepoint.com/:f:/g/personal/mahmoud_abdallah20_learnwithpowerup_onmicrosoft_com/EssSSYLiLLlAvqX83yEEWLcBPBQG44BNHSgrlv0GLldwjQ?e=2UyXqM" target="_blank" rel="noreferrer">
-    <img src="Dataverse_scalable.svg" width="36" height="36" alt="Microsoft Dataverse" />
-  </a>
-  <a href="https://learnwithpowerup-my.sharepoint.com/:f:/g/personal/mahmoud_abdallah20_learnwithpowerup_onmicrosoft_com/EssSSYLiLLlAvqX83yEEWLcBPBQG44BNHSgrlv0GLldwjQ?e=2UyXqM" target="_blank" rel="noreferrer">
-    <img src="AIBuilder_scalable.svg" width="36" height="36" alt="Microsoft AI Builder" />
-  </a>
-  <a href="https://learnwithpowerup-my.sharepoint.com/:f:/g/personal/mahmoud_abdallah20_learnwithpowerup_onmicrosoft_com/EssSSYLiLLlAvqX83yEEWLcBPBQG44BNHSgrlv0GLldwjQ?e=2UyXqM" target="_blank" rel="noreferrer">
-    <img src="PowerFx_scalable.svg" width="36" height="36" alt="PowerFx" />
-  </a>
-  <a href="https://learnwithpowerup-my.sharepoint.com/:f:/g/personal/mahmoud_abdallah20_learnwithpowerup_onmicrosoft_com/EssSSYLiLLlAvqX83yEEWLcBPBQG44BNHSgrlv0GLldwjQ?e=2UyXqM" target="_blank" rel="noreferrer">
-    <img src="PowerPages_scalable.svg" width="36" height="36" alt="Power Pages" />
-  </a>
-  <a href="https://learnwithpowerup-my.sharepoint.com/:f:/g/personal/mahmoud_abdallah20_learnwithpowerup_onmicrosoft_com/EssSSYLiLLlAvqX83yEEWLcBPBQG44BNHSgrlv0GLldwjQ?e=2UyXqM" target="_blank" rel="noreferrer">
-    <img src="CopilotStudio_scalable.svg" width="36" height="36" alt="Copilot Studio" />
-  </a>
-</p>
+### 📊 **Data Visualization & BI:**  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Google Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=python&logoColor=white)  
 
+### ⚡ **Machine Learning & AI:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)  
 
+### 🚀 **Microsoft Power Platform:**  
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)  
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)  
+![Power Pages](https://img.shields.io/badge/Power%20Pages-4CAF50?style=for-the-badge&logo=microsoft&logoColor=white)  
+![Power Virtual Agents](https://img.shields.io/badge/Power%20Virtual%20Agents-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)  
+![Dataverse](https://img.shields.io/badge/Microsoft%20Dataverse-8E44AD?style=for-the-badge&logo=microsoft&logoColor=white)  
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.facebook.com/mahmoud.abdallah.x" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/MAHMOUD2ABDALLAH" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/mahmmoud_abd_allah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/mahmoud-abdallah20" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+## 🌟 **Key Attributes**  
+✅ **Proactive** – Always eager to learn and improve.  
+✅ **Results-Driven** – Focused on solving problems with measurable impact.  
+✅ **Collaborative** – Enjoys working in teams and contributing to innovative projects.  
+
+---
+
+## 📬 **Let's Connect!**  
+📧 **Email:** [Mahmoud_abdallah20@outlook.com](mailto:Mahmoud_abdallah20@outlook.com)  
+💼 **LinkedIn:** [Mahmoud Abdallah](https://www.linkedin.com/in/mahmoud-abdallah20/)  
+📊 **GitHub:** [MAHMOUD2ABDALLAH](https://github.com/MAHMOUD2ABDALLAH)  
+
+---
+
+### 🚀 *"START BEFORE YOU ARE READY"* 💡  
+
+---
