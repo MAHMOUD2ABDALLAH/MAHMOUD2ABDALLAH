@@ -107,13 +107,3 @@ Microsoft – Power Up Program: Low-Code Maker Completion (2024)
 ## 🗣️ Languages
 - Arabic: Native & Bilingual Proficiency  
 - English: Professional Working Proficiency
-
----
-
-## 🔗 Social
-- LinkedIn: [linkedin.com/in/mahmoud-abdallah20](https://www.linkedin.com/in/mahmoud-abdallah20)
-
----
-
-# Start before you are ready
-
