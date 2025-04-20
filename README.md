@@ -109,7 +109,7 @@ Microsoft – Power Up Program: Low-Code Maker Completion (2024)
 
 ---
 
-## 🔗 Contact
+## 🔗 Social
 - LinkedIn: [linkedin.com/in/mahmoud-abdallah20](https://www.linkedin.com/in/mahmoud-abdallah20)
 
 ---
