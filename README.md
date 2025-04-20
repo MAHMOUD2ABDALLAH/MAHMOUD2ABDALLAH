@@ -1,95 +1,118 @@
-  
-# **MAHMOUD ABDALLAH** ![(413719182-957cb358-ca44-4059-8c99-a15f5ac77890](https://github.com/user-attachments/assets/522003d8-7b49-4e66-85b8-ed0f0d26d5e5)
-**Junior Data Analyst | Python | SQL | Power BI | Machine Learning & Power Platform Specialist**  
+# MAHMOUD ABDALLAH  
+## Data Analyst & Academic Assistant @ RSI Research Science Institute | Data Analytics & Machine Learning | Power Platform Specialist  
+*Cairo, Egypt  |  Dubai, United Arab Emirates*
+---
 
-🌍 **Location:** Egypt | 📧 **[Mahmoud_abdallah20@outlook.com](mailto:Mahmoud_abdallah20@outlook.com)** | 🔗 **[LinkedIn](https://www.linkedin.com/in/mahmoud-abdallah20/)**  
+## 👤 About Me
+
+Motivated Data Analyst with 2+ years of hands-on experience in data modeling, predictive analytics, and business intelligence. Skilled in leveraging Python, SQL, Power BI, and Microsoft Power Platform to deliver insights that drive business growth and operational efficiency.
+
+✔️ Data wrangling, visualization, and model deployment  
+✔️ Machine learning for classification, prediction, and automation  
+✔️ Process improvement and report generation through dashboarding  
+✔️ Passionate about continuous learning and collaborative problem-solving
 
 ---
 
-## 👋 **About Me**  
-I’m a passionate **Data Analyst** with over **1 year of experience** in transforming raw data into actionable insights. My expertise spans:  
-✅ **Data Modeling** – Structuring and optimizing datasets for improved analysis.  
-✅ **Machine Learning** – Enhancing prediction accuracy and automating decision-making.  
-✅ **Data Quality & Optimization** – Cleaning and preprocessing data to drive business insights.  
-✅ **Low-Code Development** – Creating Power Platform solutions for workflow automation.  
+## 💼 Professional Experience
 
-I'm proactive, results-driven, and always eager to learn! 🚀  
+**🔹 Data Analytics & Machine Learning Specialist** – *Freelancer at Upwork*  
+**Mar 2022 – Present** | Remote – California, United States  
+- Boosted decision-making by improving data interpretation accuracy by 90%.  
+- Achieved 90% precision in relationship classification using machine learning.  
+- Reduced data errors by 15% via preprocessing and automation.
 
----
+**🔹 Data Analyst & Academic Assistant** – *RSI Research Science Institute*  
+**Apr 2025 – Present** | Dubai, United Arab Emirates  
+- Improved data quality for 10,000+ records and enhanced stakeholder reporting.  
+- Cut retrieval time by 20% with optimized database queries.  
+- Led a 50+ member team, increasing productivity by 25%.
 
-## 💼 **Professional Experience**  
+**🔹 DEMI Coding Instructor (Seasonal)** – *iSchool*  
+**Jul 2024 – Oct 2024** | Cairo, Egypt  
+- Taught programming to 600+ students with a 90% course completion rate.  
+- Focused on practical software development projects.
 
-### 📊 **Data Analytics & Machine Learning Specialist** – *Upwork (Freelancer)*  
-- 📈 Improved data interpretation accuracy by **90%**, boosting decision-making efficiency by **25%**.  
-- ✅ Achieved **90% precision** in relationship classification, enhancing data-driven insights.  
-- 🛠️ Reduced data errors by **15%** through advanced cleansing and preprocessing techniques.  
+**🔹 Power Platform Intern** – *Microsoft Low-Code Maker Program*  
+**Aug 2024 – Oct 2024** | London, United Kingdom  
+- Built Power Platform apps meeting all Power Up challenge requirements.  
+- Demonstrated 85% proficiency across automation, dashboards, and low-code tools.
 
-### 👨‍🏫 **DEMI Coding Instructor** – *iSchool (Seasonal)*  
-- 🎓 Trained **600+ students** in programming and software development.  
-- 🔥 Achieved a **90% course completion rate**, fostering an engaging learning environment.  
-
-### 🔹 **Microsoft Certified Low-Code Maker** – *Microsoft Power Platform Community (Internship)*  
-- 🏆 Developed a Power Platform solution meeting **100% of Power Up challenge requirements**.  
-- ⚡ Demonstrated **85% proficiency** in app development, automation, and dashboards.  
-
-### 👥 **Team Supervisor** – *OnCall (Full-Time)*  
-- ⏳ Reduced response times from **60 to 45 minutes**, enhancing customer satisfaction.  
-- 📌 Led a **12-member team**, increasing operational efficiency by **25%**.  
-
----
-
-## 🎓 **Education**  
-**🎓 Bachelor's in Computer and Information Science (Information Systems)** – *Ain Shams University*  
+**🔹 Team Supervisor** – *OnCall*  
+**Oct 2023 – Apr 2024** | Al Asimah, Kuwait  
+- Improved service efficiency, reducing response time by 25%.  
+- Delivered 3+ high-impact projects within deadline and budget.
 
 ---
 
-## 🔥 **Technical Skills**  
-### 🚀 **Programming & Data Analytics:**  
+## 🎓 Education
+
+**Bachelor’s Degree in Computer and Information Science (Information Systems)**  
+*Ain Shams University*  
+**Aug 2018 – Sep 2022** | Cairo, Egypt
+
+---
+
+## 🔧 Technical Skills by Data Analysis Stages
+
+### 📥 Data Collection & Cleaning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 📊 **Data Visualization & BI:**  
+### 📊 Data Analysis & Exploration
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=python&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)  
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+### 📈 Visualization & Dashboarding
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![Google Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=python&logoColor=white)  
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### ⚡ **Machine Learning & AI:**  
+### 🤖 Machine Learning & Modeling
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)  
+![AI](https://img.shields.io/badge/AI-00ADD8?style=for-the-badge&logo=OpenAI&logoColor=white)
 
-### 🚀 **Microsoft Power Platform:**  
+### ⚙️ Automation & Low-Code Tools
 ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)  
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)  
 ![Power Pages](https://img.shields.io/badge/Power%20Pages-4CAF50?style=for-the-badge&logo=microsoft&logoColor=white)  
-![Power Virtual Agents](https://img.shields.io/badge/Power%20Virtual%20Agents-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)  
-![Dataverse](https://img.shields.io/badge/Microsoft%20Dataverse-8E44AD?style=for-the-badge&logo=microsoft&logoColor=white)  
+![Virtual Agents](https://img.shields.io/badge/Virtual%20Agents-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)  
+![Dataverse](https://img.shields.io/badge/Dataverse-8E44AD?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### ☁️ Platforms & Cloud Services
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![Microsoft OneDrive](https://img.shields.io/badge/OneDrive-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
 
 ---
 
-## 🌟 **Key Attributes**  
-✅ **Proactive** – Always eager to learn and improve.  
-✅ **Results-Driven** – Focused on solving problems with measurable impact.  
-✅ **Collaborative** – Enjoys working in teams and contributing to innovative projects.  
+## 📜 Certifications
+
+**Data Analysis & Python**  
+IBM, Cisco, Coursera – Courses in Python, Data Analysis & Essentials (2020–2025)
+
+**Artificial Intelligence & Machine Learning**  
+Cisco – AI Fundamentals, Modern AI, Intro to Data Science (2023–2025)
+
+**Power Platform**  
+Microsoft – Power Up Program: Low-Code Maker Completion (2024)
+
 
 ---
 
-## 📬 **Let's Connect!**  
-📧 **Email:** [Mahmoud_abdallah20@outlook.com](mailto:Mahmoud_abdallah20@outlook.com)  
-💼 **LinkedIn:** [Mahmoud Abdallah](https://www.linkedin.com/in/mahmoud-abdallah20/)  
-📊 **GitHub:** [MAHMOUD2ABDALLAH](https://github.com/MAHMOUD2ABDALLAH)  
+## 🗣️ Languages
+- Arabic: Native & Bilingual Proficiency  
+- English: Professional Working Proficiency
 
 ---
 
-### 🚀 *"START BEFORE YOU ARE READY"* 💡  
+## 🔗 Contact
+- LinkedIn: [linkedin.com/in/mahmoud-abdallah20](https://www.linkedin.com/in/mahmoud-abdallah20)
 
 ---
+
+# Start before you are ready
+
