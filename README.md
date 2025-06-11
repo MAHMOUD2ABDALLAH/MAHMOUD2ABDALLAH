@@ -1,6 +1,6 @@
 # MAHMOUD ABDALLAH  ![413719182-957cb358-ca44-4059-8c99-a15f5ac77890](https://github.com/user-attachments/assets/eca4abef-1f6b-4020-85e1-0344ca7610c9)
 
-## Data Analyst & Academic Assistant @ RSI Research Science Institute | Data Analytics & Machine Learning | Power Platform Specialist  
+## Data Analyst @ RSI Research Science Institute | Data Analytics & Power Platform Specialist @ Upwork.Inc
 *Cairo, Egypt  |  Dubai, United Arab Emirates*
 ---
 
