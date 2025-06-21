@@ -19,9 +19,8 @@ Motivated Data Analyst with 2+ years of hands-on experience in data modeling, pr
 
 **🔹 Data Analyst** – *RSI Research Science Institute*  
 **Apr 2025 – Present** | Dubai, United Arab Emirates  
-- Improved data quality for 10,000+ records and enhanced stakeholder reporting.  
+- Improved data quality for 1000,000+ records and enhanced stakeholder reporting.  
 - Cut retrieval time by 20% with optimized database queries.  
-- Led a 50+ member team, increasing productivity by 25%.
 
 **🔹 Data Analytics & Power Platform Specialist** – *Freelancer at Upwork*  
 **Mar 2022 – Present** | Remote – California, United States  
