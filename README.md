@@ -6,50 +6,15 @@
 
 ## 👤 About Me
 
-Motivated Data Analyst with 2+ years of hands-on experience in data modeling, predictive analytics, and business intelligence. Skilled in leveraging Python, SQL, Power BI, and Microsoft Power Platform to deliver insights that drive business growth and operational efficiency.
+Results-driven **Technical Data Analyst** with **3+ years of experience** in transforming complex datasets into actionable insights.  
+Expert in predictive modeling, automation, dashboarding, and full data lifecycle management.  
+Adept at using Python, SQL, Power BI, and Microsoft Power Platform to support data-driven decision-making.
 
-✔️ Data wrangling, visualization, and model deployment  
-✔️ Machine learning for classification, prediction, and automation  
-✔️ Process improvement and report generation through dashboarding  
-✔️ Passionate about continuous learning and collaborative problem-solving
-
----
-
-## 💼 Professional Experience
-
-**🔹 Data Analyst** – *RSI Research Science Institute*  
-**Apr 2025 – Present** | Dubai, United Arab Emirates  
-- Improved data quality for 1000,000+ records and enhanced stakeholder reporting.  
-- Cut retrieval time by 20% with optimized database queries.  
-
-**🔹 Data Analytics & Power Platform Specialist** – *Freelancer at Upwork*  
-**Mar 2022 – Present** | Remote – California, United States  
-- Boosted decision-making by improving data interpretation accuracy by 90%.  
-- Achieved 90% precision in relationship classification using machine learning.  
-- Reduced data errors by 15% via preprocessing and automation.
-
-**🔹 DEMI Coding Instructor (Seasonal)** – *iSchool*  
-**Jul 2024 – Oct 2024** | Cairo, Egypt  
-- Taught programming to 600+ students with a 90% course completion rate.  
-- Focused on practical software development projects.
-
-**🔹 Power Platform Intern** – *Microsoft Low-Code Maker Program*  
-**Aug 2024 – Oct 2024** | London, United Kingdom  
-- Built Power Platform apps meeting all Power Up challenge requirements.  
-- Demonstrated 85% proficiency across automation, dashboards, and low-code tools.
-
-**🔹 Team Supervisor** – *OnCall*  
-**Oct 2023 – Apr 2024** | Al Asimah, Kuwait  
-- Improved service efficiency, reducing response time by 25%.  
-- Delivered 3+ high-impact projects within deadline and budget.
-
----
-
-## 🎓 Education
-
-**Bachelor’s Degree in Computer and Information Science (Information Systems)**  
-*Ain Shams University*  
-**Aug 2018 – Sep 2022** | Cairo, Egypt
+- ✔️ Predictive modeling (TensorFlow) and statistical analysis (A/B testing, SciPy) that improved decision-making accuracy by 25%  
+- ✔️ Built ETL pipelines (Snowflake, Databricks) reducing processing time by 30% for 1M+ records  
+- ✔️ Created interactive dashboards (Power BI/Tableau) increasing stakeholder adoption by 40%  
+- ✔️ Developed Power Platform solutions that saved 15+ manual hours per week  
+- ✔️ Led data projects end-to-end with 90%+ accuracy and mentored 600+ students
 
 ---
 
@@ -86,20 +51,6 @@ Motivated Data Analyst with 2+ years of hands-on experience in data modeling, pr
 ### ☁️ Platforms & Cloud Services
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
 ![Microsoft OneDrive](https://img.shields.io/badge/OneDrive-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
-
----
-
-## 📜 Certifications
-
-**Data Analysis & Python**  
-IBM, Cisco, Coursera – Courses in Python, Data Analysis & Essentials (2020–2025)
-
-**Artificial Intelligence & Machine Learning**  
-Cisco – AI Fundamentals, Modern AI, Intro to Data Science (2023–2025)
-
-**Power Platform**  
-Microsoft – Power Up Program: Low-Code Maker Completion (2024)
-
 
 ---
 
