@@ -18,7 +18,7 @@ Adept at using Python, SQL, Power BI, and Microsoft Power Platform to support da
 
 ---
 
-## 🔧 Technical Skills by Data Analysis Stages
+## 🔧 Technical Skills by Data Analysis, Machine Learning & Power Platform Stages
 
 ### 📥 Data Collection & Cleaning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
