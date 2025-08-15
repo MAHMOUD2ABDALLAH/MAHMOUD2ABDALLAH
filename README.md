@@ -6,7 +6,7 @@
 
 ## 👤 About Me
 
-Results-driven **Technical Data Analyst** with **3+ years of experience** in transforming complex datasets into actionable insights.  
+Results-driven **Data Analytics Engineer** with **3+ years of experience** in transforming complex datasets into actionable insights.  
 Expert in predictive modeling, automation, dashboarding, and full data lifecycle management.  
 Adept at using Python, SQL, Power BI, and Microsoft Power Platform to support data-driven decision-making.
 
