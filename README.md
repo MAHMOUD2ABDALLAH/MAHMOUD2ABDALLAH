@@ -14,55 +14,53 @@ Adept at using Python, SQL, Power BI, and Microsoft Power Platform to support da
 - Led data projects end-to-end with 90%+ accuracy and mentored 600+ students
 
 ---
-
 ## Technical Skills
 
 ### Data Engineering & Analytics
-![SQL](https://img.shields.io/badge/SQL-Advanced_Querying,_Optimization-CC2927?style=flat&logo=microsoftsqlserver)
-![Python](https://img.shields.io/badge/Python-Pandas,_NumPy,_PySpark-3776AB?style=flat&logo=python)
-![ETL](https://img.shields.io/badge/ETL_/_ELT-Pipeline_Design-FF6F00?style=flat)
-![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-Concepts-4CAF50?style=flat)
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-Star/Snowflake_Schema-9C27B0?style=flat)
+![SQL](https://img.shields.io/badge/SQL-Expert-CC2927?style=flat&logo=microsoftsqlserver)
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python)
+![ETL](https://img.shields.io/badge/ETL_/_ELT-Expert-FF6F00?style=flat)
+![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-Intermediate-4CAF50?style=flat)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-Expert-9C27B0?style=flat)
 ![Data Quality](https://img.shields.io/badge/Data_Quality_&_Validation-Expert-E91E63?style=flat)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-SciKit--learn,_TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-A/B_Testing,_Hypothesis_Testing-2196F3?style=flat)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Intermediate-FF6F00?style=flat&logo=tensorflow)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-Intermediate-2196F3?style=flat)
 
 ### Business Intelligence & Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-DAX,_Data_Modeling-F2C811?style=flat&logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-Expert-E97627?style=flat&logo=tableau)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-Expert-4285F4?style=flat&logo=google)
+![Power BI](https://img.shields.io/badge/Power_BI-Expert-F2C811?style=flat&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-Intermediate-4285F4?style=flat&logo=google)
 ![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-Expert-FF9800?style=flat)
 ![KPI Dashboard](https://img.shields.io/badge/KPI_Dashboard_Development-Expert-4CAF50?style=flat)
-![Geospatial Analysis](https://img.shields.io/badge/Geospatial_Analysis-Expert-009688?style=flat)
+![Geospatial Analysis](https://img.shields.io/badge/Geospatial_Analysis-Beginner-009688?style=flat)
 
 ### Development & Automation
-![Power Apps](https://img.shields.io/badge/Power_Apps-Canvas,_Model--Driven-742774?style=flat&logo=powerapps)
-![Power Automate](https://img.shields.io/badge/Power_Automate-Cloud,_Desktop-0066FF?style=flat&logo=powerautomate)
-![Power Pages](https://img.shields.io/badge/Power_Pages-Expert-4CAF50?style=flat)
-![Azure Logic Apps](https://img.shields.io/badge/Azure_Logic_Apps-Expert-0078D4?style=flat&logo=microsoftazure)
-![API Integrations](https://img.shields.io/badge/API_Integrations-REST,_SOAP-FF6F00?style=flat)
-![Git](https://img.shields.io/badge/Git_/_Version_Control-GitHub,_Azure_DevOps-F05032?style=flat&logo=git)
+![Power Apps](https://img.shields.io/badge/Power_Apps-Expert-742774?style=flat&logo=powerapps)
+![Power Automate](https://img.shields.io/badge/Power_Automate-Expert-0066FF?style=flat&logo=powerautomate)
+![Power Pages](https://img.shields.io/badge/Power_Pages-Intermediate-4CAF50?style=flat)
+![Azure Logic Apps](https://img.shields.io/badge/Azure_Logic_Apps-Intermediate-0078D4?style=flat&logo=microsoftazure)
+![API Integrations](https://img.shields.io/badge/API_Integrations-Intermediate-FF6F00?style=flat)
+![Git](https://img.shields.io/badge/Git_/_Version_Control-Expert-F05032?style=flat&logo=git)
 
 ### Project Management
 ![Agile](https://img.shields.io/badge/Agile_/_Scrum_Methodology-Expert-009688?style=flat)
 ![Project Planning](https://img.shields.io/badge/Project_Planning_&_Execution-Expert-4CAF50?style=flat)
-![Jira](https://img.shields.io/badge/Jira_/_Azure_Boards-Expert-0052CC?style=flat&logo=jira)
+![Jira](https://img.shields.io/badge/Jira_/_Azure_Boards-Intermediate-0052CC?style=flat&logo=jira)
 ![Brainstorming](https://img.shields.io/badge/Brainstorming-Expert-9C27B0?style=flat)
 ![Collaboration](https://img.shields.io/badge/Cross--Functional_Collaboration-Expert-2196F3?style=flat)
 ![Requirements](https://img.shields.io/badge/Requirements_Gathering-Expert-FF9800?style=flat)
-![Consultation](https://img.shields.io/badge/Client_Consultation-Expert-E91E63?style=flat)
+![Consultation](https://img.shields.io/badge/Client_Consultation-Intermediate-E91E63?style=flat)
 
 ### Cloud Platforms & Tools
-![Azure](https://img.shields.io/badge/Microsoft_Azure-Data_Factory,_Synapse-0078D4?style=flat&logo=microsoftazure)
-![Snowflake](https://img.shields.io/badge/Snowflake-Expert-29B5E8?style=flat&logo=snowflake)
-![AWS](https://img.shields.io/badge/AWS_Redshift_/_BigQuery-Expert-FF9900?style=flat&logo=amazonaws)
-![HubSpot](https://img.shields.io/badge/HubSpot_CRM-Expert-FF7A59?style=flat&logo=hubspot)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-Intermediate-0078D4?style=flat&logo=microsoftazure)
+![Snowflake](https://img.shields.io/badge/Snowflake-Intermediate-29B5E8?style=flat&logo=snowflake)
+![AWS](https://img.shields.io/badge/AWS_Redshift_/_BigQuery-Beginner-FF9900?style=flat&logo=amazonaws)
+![HubSpot](https://img.shields.io/badge/HubSpot_CRM-Intermediate-FF7A59?style=flat&logo=hubspot)
 ![Dataverse](https://img.shields.io/badge/Dataverse-Expert-008272?style=flat)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-OneLake,_Pipelines-0078D4?style=flat&logo=microsoft)
-![Databases](https://img.shields.io/badge/Databases-SQL_Server,_PostgreSQL,_MySQL-4479A1?style=flat&logo=mysql)
-
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-Beginner-0078D4?style=flat&logo=microsoft)
+![Databases](https://img.shields.io/badge/Databases-Expert-4479A1?style=flat&logo=mysql)
 ---
-
+## Top Projects
 <div style="text-align:center;">
   <table border="1" cellspacing="0" cellpadding="10" style="margin:auto; text-align:center;">
     <tr>
