@@ -1,139 +1,96 @@
-<div align="Left">
-  <h1>MAHMOUD ABDALLAH <img src="https://github.com/user-attachments/assets/eca4abef-1f6b-4020-85e1-0344ca7610c9" width="40" style="border-radius:50%;" /></h1>  
-  
-  <h3>Data Analyst @ RSI Research Science Institute | Data Analytics & Power Platform Specialist @ Upwork</h3>
-  <p>📍 Cairo, Egypt | 📍 Dubai, United Arab Emirates</p>
-</div>
+# MAHMOUD ABDALLAH ![Profile Image](https://github.com/user-attachments/assets/eca4abef-1f6b-4020-85e1-0344ca7610c9) 
+## Data Analytics Engineer
 
-<hr/>
+Results-driven **Data Analytics Engineer** with **3+ years of experience** in transforming complex datasets into actionable insights.
 
-<h2>👤 About Me</h2>
-<p>
-Results-driven <b>Data Analytics Engineer</b> with <b>3+ years of experience</b> in transforming complex datasets into actionable insights.<br>
-Expert in predictive modeling, automation, dashboarding, and full data lifecycle management.<br>
+Expert in predictive modeling, automation, dashboarding, and full data lifecycle management.
+
 Adept at using Python, SQL, Power BI, and Microsoft Power Platform to support data-driven decision-making.
-</p>
-<ul>
-  <li>✔️ Predictive modeling (TensorFlow) and statistical analysis (A/B testing, SciPy) improving accuracy by 25%</li>
-  <li>✔️ Built ETL pipelines (Snowflake, Databricks) reducing processing time by 30% for 1M+ records</li>
-  <li>✔️ Created interactive dashboards (Power BI/Tableau) increasing stakeholder adoption by 40%</li>
-  <li>✔️ Developed Power Platform solutions saving 15+ manual hours per week</li>
-  <li>✔️ Led data projects end-to-end with 90%+ accuracy and mentored 600+ students</li>
-</ul>
 
-<hr/>
+- Predictive modeling (TensorFlow) and statistical analysis (A/B testing, SciPy) improving accuracy by 25%
+- Built ETL pipelines (Snowflake, Databricks) reducing processing time by 30% for 1M+ records
+- Created interactive dashboards (Power BI/Tableau) increasing stakeholder adoption by 40%
+- Developed Power Platform solutions saving 15+ manual hours per week
+- Led data projects end-to-end with 90%+ accuracy and mentored 600+ students
 
-<h2>🔧 Technical Skills</h2>
+---
 
-<div>
-  <h3>📥 Data Collection & Cleaning</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</div>
+## Technical Skills
 
-<div>
-  <h3>📊 Data Analysis & Exploration</h3>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-</div>
+### Data Engineering & Analytics
+![SQL](https://img.shields.io/badge/SQL-Advanced_Querying,_Optimization-CC2927?style=flat&logo=microsoftsqlserver)
+![Python](https://img.shields.io/badge/Python-Pandas,_NumPy,_PySpark-3776AB?style=flat&logo=python)
+![ETL](https://img.shields.io/badge/ETL_/_ELT-Pipeline_Design-FF6F00?style=flat)
+![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-Concepts-4CAF50?style=flat)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-Star/Snowflake_Schema-9C27B0?style=flat)
+![Data Quality](https://img.shields.io/badge/Data_Quality_&_Validation-Expert-E91E63?style=flat)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-SciKit--learn,_TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-A/B_Testing,_Hypothesis_Testing-2196F3?style=flat)
 
-<div>
-  <h3>📈 Visualization & Dashboarding</h3>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</div>
+### Business Intelligence & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-DAX,_Data_Modeling-F2C811?style=flat&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-Expert-E97627?style=flat&logo=tableau)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-Expert-4285F4?style=flat&logo=google)
+![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-Expert-FF9800?style=flat)
+![KPI Dashboard](https://img.shields.io/badge/KPI_Dashboard_Development-Expert-4CAF50?style=flat)
+![Geospatial Analysis](https://img.shields.io/badge/Geospatial_Analysis-Expert-009688?style=flat)
 
-<div>
-  <h3>🤖 Machine Learning & Modeling</h3>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI-00ADD8?style=for-the-badge&logo=OpenAI&logoColor=white"/>
-</div>
+### Development & Automation
+![Power Apps](https://img.shields.io/badge/Power_Apps-Canvas,_Model--Driven-742774?style=flat&logo=powerapps)
+![Power Automate](https://img.shields.io/badge/Power_Automate-Cloud,_Desktop-0066FF?style=flat&logo=powerautomate)
+![Power Pages](https://img.shields.io/badge/Power_Pages-Expert-4CAF50?style=flat)
+![Azure Logic Apps](https://img.shields.io/badge/Azure_Logic_Apps-Expert-0078D4?style=flat&logo=microsoftazure)
+![API Integrations](https://img.shields.io/badge/API_Integrations-REST,_SOAP-FF6F00?style=flat)
+![Git](https://img.shields.io/badge/Git_/_Version_Control-GitHub,_Azure_DevOps-F05032?style=flat&logo=git)
 
-<div>
-  <h3>⚙️ Automation & Low-Code Tools</h3>
-  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Pages-4CAF50?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Virtual%20Agents-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dataverse-8E44AD?style=for-the-badge&logo=microsoft&logoColor=white"/>
-</div>
+### Project Management
+![Agile](https://img.shields.io/badge/Agile_/_Scrum_Methodology-Expert-009688?style=flat)
+![Project Planning](https://img.shields.io/badge/Project_Planning_&_Execution-Expert-4CAF50?style=flat)
+![Jira](https://img.shields.io/badge/Jira_/_Azure_Boards-Expert-0052CC?style=flat&logo=jira)
+![Brainstorming](https://img.shields.io/badge/Brainstorming-Expert-9C27B0?style=flat)
+![Collaboration](https://img.shields.io/badge/Cross--Functional_Collaboration-Expert-2196F3?style=flat)
+![Requirements](https://img.shields.io/badge/Requirements_Gathering-Expert-FF9800?style=flat)
+![Consultation](https://img.shields.io/badge/Client_Consultation-Expert-E91E63?style=flat)
 
-<div>
-  <h3>☁️ Platforms & Cloud Services</h3>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OneDrive-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white"/>
-</div>
+### Cloud Platforms & Tools
+![Azure](https://img.shields.io/badge/Microsoft_Azure-Data_Factory,_Synapse-0078D4?style=flat&logo=microsoftazure)
+![Snowflake](https://img.shields.io/badge/Snowflake-Expert-29B5E8?style=flat&logo=snowflake)
+![AWS](https://img.shields.io/badge/AWS_Redshift_/_BigQuery-Expert-FF9900?style=flat&logo=amazonaws)
+![HubSpot](https://img.shields.io/badge/HubSpot_CRM-Expert-FF7A59?style=flat&logo=hubspot)
+![Dataverse](https://img.shields.io/badge/Dataverse-Expert-008272?style=flat)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-OneLake,_Pipelines-0078D4?style=flat&logo=microsoft)
+![Databases](https://img.shields.io/badge/Databases-SQL_Server,_PostgreSQL,_MySQL-4479A1?style=flat&logo=mysql)
 
-<hr/>
+---
 
+## Featured Projects
 
-<h2>📂 Featured Projects</h2>
+### [Elezaby Pharmacy E-Commerce Digital Analysis](https://github.com/MAHMOUD2ABDALLAH/Elezaby-Pharmacy-e-commerce-digital-analysis-Case-study)
+![Elezaby](https://github.com/user-attachments/assets/16d3eef1-ceb4-4bc9-a65a-94359907c2d6)
 
-<div style="display: grid; grid-template-columns: 1fr; gap: 20px;">
+**Domain:** E-Commerce & Pharmacy  
+**Focus:** Customer Behavior & Sales Insights
 
-  <div style="border:1px solid #ddd; border-radius:12px; padding:20px; background:#fafafa; position:relative;">
-    <h3>
-      <a href="https://github.com/MAHMOUD2ABDALLAH/Elezaby-Pharmacy-e-commerce-digital-analysis-Case-study">
-        Elezaby Pharmacy E-Commerce Digital Analysis
-      </a>
-    </h3>
-    <img src="https://github.com/user-attachments/assets/16d3eef1-ceb4-4bc9-a65a-94359907c2d6"   
-         width="100" 
-         style="position:absolute; top:20px; right:20px;" />
-    <p><b>📦 Domain:</b> E-Commerce & Pharmacy <br>
-    <b>📊 Focus:</b> Customer Behavior & Sales Insights</p>
-  </div>
+---
 
-  <div style="border:1px solid #ddd; border-radius:12px; padding:20px; background:#fafafa; position:relative;">
-    <h3>
-      <a href="https://github.com/MAHMOUD2ABDALLAH/MaxAB-Sales-Analysis-Case-Study">
-        MaxAB Sales Analysis Case Study
-      </a>
-    </h3>
-    <img src="https://github.com/user-attachments/assets/3610ac3a-ea1e-458f-b403-eae233e90888" 
-         width="90" 
-         style="position:absolute; top:20px; right:20px;" />
-    <p><b>🏬 Domain:</b> FMCG & B2B Distribution <br>
-    <b>📊 Focus:</b> Sales Trends, Market Penetration</p>
-  </div>
+### [MaxAB Sales Analysis Case Study](https://github.com/MAHMOUD2ABDALLAH/MaxAB-Sales-Analysis-Case-Study)
+![MaxAB](https://github.com/user-attachments/assets/3610ac3a-ea1e-458f-b403-eae233e90888)
 
-  <div style="border:1px solid #ddd; border-radius:12px; padding:20px; background:#fafafa; position:relative;">
-    <h3>
-      <a href="https://github.com/MAHMOUD2ABDALLAH/Immigration-to-Canada-from-1980-to-2013">
-        Immigration to Canada (1980–2013)
-      </a>
-    </h3>
-    <img src="https://github.com/user-attachments/assets/eccd504c-6941-4379-9bca-c0055f976842" 
-         width="80" 
-         style="position:absolute; top:20px; right:20px;" />
-    <p><b>🌍 Domain:</b> Demographics & Migration <br>
-    <b>📊 Focus:</b> Immigration Trends & Policy Insights</p>
-  </div>
+**Domain:** FMCG & B2B Distribution  
+**Focus:** Sales Trends, Market Penetration
 
-  <div style="border:1px solid #ddd; border-radius:12px; padding:20px; background:#fafafa; position:relative;">
-    <h3>
-      <a href="https://github.com/MAHMOUD2ABDALLAH/Wallmart-Product-Analysis-Case-Study">
-        Walmart Product Analysis Case Study
-      </a>
-    </h3>
-    <img src="https://github.com/user-attachments/assets/307110e9-1f4b-4f24-bbf1-d773d00a6895"
-         width="100" 
-         style="position:absolute; top:20px; right:20px;" />
-    <p><b>🛒 Domain:</b> Retail & Consumer Goods <br>
-    <b>📊 Focus:</b> Product Performance & Customer Demand</p>
-  </div>
+---
 
-</div>
+### [Immigration to Canada (1980–2013)](https://github.com/MAHMOUD2ABDALLAH/Immigration-to-Canada-from-1980-to-2013)
+![Canada Immigration](https://github.com/user-attachments/assets/eccd504c-6941-4379-9bca-c0055f976842)
 
-<hr/>
+**Domain:** Demographics & Migration  
+**Focus:** Immigration Trends & Policy Insights
 
-<h2>🗣️ Languages</h2>
-<ul>
-  <li>Arabic: Native & Bilingual Proficiency</li>
-  <li>English: Professional Working Proficiency</li>
-</ul>
+---
+
+### [Walmart Product Analysis Case Study](https://github.com/MAHMOUD2ABDALLAH/Wallmart-Product-Analysis-Case-Study)
+![Walmart](https://github.com/user-attachments/assets/307110e9-1f4b-4f24-bbf1-d773d00a6895)
+
+**Domain:** Retail & Consumer Goods  
+**Focus:** Product Performance & Customer Demand
