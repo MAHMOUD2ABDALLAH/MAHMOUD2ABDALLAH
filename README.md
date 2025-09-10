@@ -63,34 +63,51 @@ Adept at using Python, SQL, Power BI, and Microsoft Power Platform to support da
 
 ---
 
-## Featured Projects
-
-### [Elezaby Pharmacy E-Commerce Digital Analysis](https://github.com/MAHMOUD2ABDALLAH/Elezaby-Pharmacy-e-commerce-digital-analysis-Case-study)
-![Elezaby](https://github.com/user-attachments/assets/16d3eef1-ceb4-4bc9-a65a-94359907c2d6)
-
-**Domain:** E-Commerce & Pharmacy  
-**Focus:** Customer Behavior & Sales Insights
-
----
-
-### [MaxAB Sales Analysis Case Study](https://github.com/MAHMOUD2ABDALLAH/MaxAB-Sales-Analysis-Case-Study)
-![MaxAB](https://github.com/user-attachments/assets/3610ac3a-ea1e-458f-b403-eae233e90888)
-
-**Domain:** FMCG & B2B Distribution  
-**Focus:** Sales Trends, Market Penetration
-
----
-
-### [Immigration to Canada (1980–2013)](https://github.com/MAHMOUD2ABDALLAH/Immigration-to-Canada-from-1980-to-2013)
-![Canada Immigration](https://github.com/user-attachments/assets/eccd504c-6941-4379-9bca-c0055f976842)
-
-**Domain:** Demographics & Migration  
-**Focus:** Immigration Trends & Policy Insights
-
----
-
-### [Walmart Product Analysis Case Study](https://github.com/MAHMOUD2ABDALLAH/Wallmart-Product-Analysis-Case-Study)
-![Walmart](https://github.com/user-attachments/assets/307110e9-1f4b-4f24-bbf1-d773d00a6895)
-
-**Domain:** Retail & Consumer Goods  
-**Focus:** Product Performance & Customer Demand
+<div style="text-align:center;">
+  <table border="1" cellspacing="0" cellpadding="10" style="margin:auto; text-align:center;">
+    <tr>
+      <td>
+        <a href="https://github.com/MAHMOUD2ABDALLAH/Elezaby-Pharmacy-e-commerce-digital-analysis-Case-study">
+          <strong>Elezaby Pharmacy E-Commerce Digital Analysis</strong>
+        </a><br>
+        <div style="text-align:center;">
+          <img src="https://github.com/user-attachments/assets/cee9099a-7ab9-46d9-9bf9-3e6ec85a5cc1" width="500" height="300" alt="Elezaby Pharmacy Dashboard"/>
+        </div><br>
+        <strong>Domain:</strong> E-Commerce & Pharmacy<br>
+        <strong>Focus:</strong> Customer Behavior & Sales Insights
+      </td>
+      <td>
+        <a href="https://github.com/MAHMOUD2ABDALLAH/MaxAB-Sales-Analysis-Case-Study">
+          <strong>MaxAB Sales Analysis Case Study</strong>
+        </a><br>
+        <div style="text-align:center;">
+          <img src="https://github.com/user-attachments/assets/3610ac3a-ea1e-458f-b403-eae233e90888" width="500" height="300" alt="MaxAB Sales Dashboard"/>
+        </div><br>
+        <strong>Domain:</strong> FMCG & B2B Distribution<br>
+        <strong>Focus:</strong> Sales Trends, Market Penetration
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/MAHMOUD2ABDALLAH/Immigration-to-Canada-from-1980-to-2013">
+          <strong>Immigration to Canada (1980–2013)</strong>
+        </a><br>
+        <div style="text-align:center;">
+          <img src="https://github.com/user-attachments/assets/eccd504c-6941-4379-9bca-c0055f976842" width="500" height="1000" alt="Canada Immigration Dashboard"/>
+        </div><br>
+        <strong>Domain:</strong> Demographics & Migration<br>
+        <strong>Focus:</strong> Immigration Trends & Policy Insights
+      </td>
+      <td>
+        <a href="https://github.com/MAHMOUD2ABDALLAH/Wallmart-Product-Analysis-Case-Study">
+          <strong>Walmart Product Analysis Case Study</strong>
+        </a><br>
+        <div style="text-align:center;">
+          <img src="https://github.com/user-attachments/assets/307110e9-1f4b-4f24-bbf1-d773d00a6895" width="500" height="300" alt="Walmart Product Dashboard"/>
+        </div><br>
+        <strong>Domain:</strong> Retail & Consumer Goods<br>
+        <strong>Focus:</strong> Product Performance & Customer Demand
+      </td>
+    </tr>
+  </table>
+</div>
