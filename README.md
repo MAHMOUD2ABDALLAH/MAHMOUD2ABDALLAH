@@ -66,7 +66,7 @@ Adept at using Python, SQL, Power BI, and Microsoft Power Platform to support da
     <tr>
       <td>
         <a href="https://github.com/MAHMOUD2ABDALLAH/Elezaby-Pharmacy-e-commerce-digital-analysis-Case-study">
-          <strong>Elezaby Pharmacy E-Commerce Digital Analysis</strong>
+          <strong>Elezaby Pharmacy Digital Analysis Case Study</strong>
         </a><br>
         <div style="text-align:center;">
           <img src="https://github.com/user-attachments/assets/cee9099a-7ab9-46d9-9bf9-3e6ec85a5cc1" width="500" height="300" alt="Elezaby Pharmacy Dashboard"/>
