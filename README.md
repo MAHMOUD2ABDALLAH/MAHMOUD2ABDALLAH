@@ -1,5 +1,8 @@
-# MAHMOUD ABDALLAH ![Profile Image](https://github.com/user-attachments/assets/eca4abef-1f6b-4020-85e1-0344ca7610c9) 
-## Data Analytics Engineer
+<img src="https://github.com/user-attachments/assets/a09b159d-a6d1-4e91-8aad-d8beb5ddd33d" alt="Line" width="80" height="300" align="right" />
+
+# MAHMOUD ABDALLAH 
+
+## Data Analytics Engineer  
 
 Results-driven **Data Analytics Engineer** with **3+ years of experience** in transforming complex datasets into actionable insights.
 
