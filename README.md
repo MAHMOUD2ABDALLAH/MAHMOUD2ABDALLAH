@@ -22,28 +22,270 @@ Turning data into decisions that matter with 2+ years of end-to-end analytics ex
 
 ---
 
-## Top Projects
+## Case Studies
 
-| | Project | Description | Tools |
-| :---: | :--- | :--- | :--- |
-| <img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/U.S.%20Census%20Bureau.svg" width="120" alt="U.S. Census Bureau" /> | [Census 2022 Manufacturing E-Commerce](https://github.com/MAHMOUD2ABDALLAH/Census-2022-Manufacturing-E-Commerce-to-Power-BI) | U.S. Census Bureau data pulled via API and modelled into an interactive Power BI report. | Power BI, API |
-| <img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/nextcare.svg" width="120" alt="Nextcare" /> | [Nextcare Allianz Insurance Claims](https://github.com/MAHMOUD2ABDALLAH/Nextcare-Allianz-Insurance-Claims-Performance-Case-Study) | Insurance claims and call center analytics dashboard. | Power BI, SQL |
-| <img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/Walmart.svg" width="120" alt="Walmart" /> | [Walmart Product Analysis](https://github.com/MAHMOUD2ABDALLAH/Walmart-Product-Analysis-Case-Study) | Retail dashboard on product performance, category profitability, and inventory. | Power BI, DAX |
-| <img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/Maxab.svg" width="120" alt="MaxAB" /> | [MaxAB Sales Analysis](https://github.com/MAHMOUD2ABDALLAH/MaxAB-Sales-Analysis-Case-Study) | Sales analytics dashboard for Egypt's leading B2B e-commerce platform. | Power BI, DAX |
-| <img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/ElEzaby.svg" width="120" alt="El Ezaby Pharmacy" /> | [El Ezaby Pharmacy Digital Analytics](https://github.com/MAHMOUD2ABDALLAH/Elezaby-Pharmacy-e-commerce-digital-analysis-Case-study) | E-commerce performance and customer journey analytics. | Power BI |
-| <img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/Abwab-ai.svg" width="120" alt="Abwab.AI" /> | [Abwab.AI Financial TRX 200](https://github.com/MAHMOUD2ABDALLAH/Abawb.ai-Financial-TRX-200) | Financial transaction monitoring dashboard with fraud detection indicators. | Power BI |
-| <img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/Microsoft.svg" width="120" alt="Microsoft" /> | [Power Up Program Challenge](https://github.com/MAHMOUD2ABDALLAH/Power-Up-Program-Challange) | Animal Shelter Management System, Library Manager app, and AI Builder workflows. | Power Apps, Power Automate, Power Pages, Dataverse |
-| <img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/AutomotiveWorld.svg" width="120" alt="Automotive World" /> | [Automotive World Market Analysis](https://github.com/MAHMOUD2ABDALLAH/Automotive-world) | Market analysis of automotive pricing and performance trends. | Python, Pandas |
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/Census-2022-Manufacturing-E-Commerce-to-Power-BI"><img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/U.S.%20Census%20Bureau.svg" width="240" alt="Census 2022 Manufacturing E-Commerce (API Integration)" /></a>
+<br /><br />
+<b>Census 2022 Manufacturing E-Commerce (API Integration)</b>
+<br /><br />
+U.S. Census Bureau 2022 manufacturing e-commerce data pulled via API, transformed and modelled into an interactive Power BI report.
+<br /><br />
+<code>power-bi</code> <code>api-integration</code> <code>e-commerce</code> <code>census-data</code>
+<br /><br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/Census-2022-Manufacturing-E-Commerce-to-Power-BI"><img src="https://img.shields.io/badge/View_Project-2185FE?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Project" /></a> <a href="https://www.census.gov/"><img src="https://img.shields.io/badge/Learn_more-444444?style=flat-square" alt="Learn more" /></a>
+<br /><br />
+</td>
+<td width="50%" align="center" valign="top">
+<br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/Automotive-world"><img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/AutomotiveWorld.svg" width="240" alt="Automotive World Market Analysis" /></a>
+<br /><br />
+<b>Automotive World Market Analysis</b>
+<br /><br />
+Comprehensive market analysis and visualisation for the automotive industry, covering pricing and performance trends.
+<br /><br />
+<code>python</code> <code>pandas</code> <code>data-visualization</code> <code>market-analysis</code>
+<br /><br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/Automotive-world"><img src="https://img.shields.io/badge/View_Project-2185FE?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Project" /></a> <a href="https://www.automotiveworld.com/"><img src="https://img.shields.io/badge/Learn_more-444444?style=flat-square" alt="Learn more" /></a>
+<br /><br />
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/Improvado-Marketing-Homework"><img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/Improvado.svg" width="240" alt="Improvado Marketing Analytics" /></a>
+<br /><br />
+<b>Improvado Marketing Analytics</b>
+<br /><br />
+Marketing analytics homework project focusing on data transformation and visualisation using Power BI.
+<br /><br />
+<code>power-bi</code> <code>marketing-analytics</code> <code>data-transformation</code>
+<br /><br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/Improvado-Marketing-Homework"><img src="https://img.shields.io/badge/View_Project-2185FE?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Project" /></a> <a href="https://improvado.io/"><img src="https://img.shields.io/badge/Learn_more-444444?style=flat-square" alt="Learn more" /></a>
+<br /><br />
+</td>
+<td width="50%" align="center" valign="top">
+<br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/Nextcare-Allianz-Insurance-Claims-Performance-Case-Study"><img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/nextcare.svg" width="240" alt="Nextcare Allianz Insurance Claims" /></a>
+<br /><br />
+<b>Nextcare Allianz Insurance Claims</b>
+<br /><br />
+Insurance claims and call center analytics dashboard built with Power BI and SQL.
+<br /><br />
+<code>power-bi</code> <code>sql</code> <code>healthcare-analytics</code> <code>claims-analysis</code>
+<br /><br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/Nextcare-Allianz-Insurance-Claims-Performance-Case-Study"><img src="https://img.shields.io/badge/View_Project-2185FE?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Project" /></a> <a href="https://www.nextcarehealth.com/"><img src="https://img.shields.io/badge/Learn_more-444444?style=flat-square" alt="Learn more" /></a>
+<br /><br />
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/Innovative-rtm-analysis-case-study"><img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/Innovative.svg" width="240" alt="Innovative RTM Analysis" /></a>
+<br /><br />
+<b>Innovative RTM Analysis</b>
+<br /><br />
+Real-time workforce attendance and shift compliance monitoring analytics using Excel.
+<br /><br />
+<code>excel</code> <code>real-time-monitoring</code> <code>workforce-analytics</code> <code>compliance</code>
+<br /><br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/Innovative-rtm-analysis-case-study"><img src="https://img.shields.io/badge/View_Project-2185FE?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Project" /></a> <a href="https://innovative-bpo.com/"><img src="https://img.shields.io/badge/Learn_more-444444?style=flat-square" alt="Learn more" /></a>
+<br /><br />
+</td>
+<td width="50%" align="center" valign="top">
+<br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/WalletHub-Financial-Analysis-Excel"><img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/WalletHub.svg" width="240" alt="WalletHub Financial Analysis" /></a>
+<br /><br />
+<b>WalletHub Financial Analysis</b>
+<br /><br />
+Financial product research and APY validation using advanced Excel functions.
+<br /><br />
+<code>excel</code> <code>financial-analysis</code> <code>apy-validation</code> <code>data-research</code>
+<br /><br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/WalletHub-Financial-Analysis-Excel"><img src="https://img.shields.io/badge/View_Project-2185FE?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Project" /></a> <a href="https://wallethub.com/"><img src="https://img.shields.io/badge/Learn_more-444444?style=flat-square" alt="Learn more" /></a>
+<br /><br />
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/Immigration-to-Canada-from-1980-to-2013"><img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/Canada-ca.svg" width="240" alt="Immigration to Canada" /></a>
+<br /><br />
+<b>Immigration to Canada</b>
+<br /><br />
+EDA on Canadian immigration data (1980-2013) using Python, Pandas, Matplotlib to uncover trends and demographic insights.
+<br /><br />
+<code>python</code> <code>pandas</code> <code>data-visualization</code> <code>matplotlib</code>
+<br /><br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/Immigration-to-Canada-from-1980-to-2013"><img src="https://img.shields.io/badge/View_Project-2185FE?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Project" /></a> <a href="https://www.canada.ca/"><img src="https://img.shields.io/badge/Learn_more-444444?style=flat-square" alt="Learn more" /></a>
+<br /><br />
+</td>
+<td width="50%" align="center" valign="top">
+<br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/Power-Up-Program-Challange"><img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/Microsoft.svg" width="240" alt="Power Up Program Challenge" /></a>
+<br /><br />
+<b>Power Up Program Challenge</b>
+<br /><br />
+Comprehensive Power Platform ecosystem featuring an Animal Shelter Management System, a Library Manager Canvas App, and AI Builder automation workflows, utilizing Power Apps, Power Automate, Power BI, Dataverse, and Power Pages.
+<br /><br />
+<code>powerbi</code> <code>powerapps</code> <code>powerautomate</code> <code>powerpages</code> <code>dataverse</code> <code>ai-builder</code>
+<br /><br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/Power-Up-Program-Challange"><img src="https://img.shields.io/badge/View_Project-2185FE?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Project" /></a> <a href="https://powerup.microsoft.com/"><img src="https://img.shields.io/badge/Learn_more-444444?style=flat-square" alt="Learn more" /></a>
+<br /><br />
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/Walmart-Product-Analysis-Case-Study"><img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/Walmart.svg" width="240" alt="Walmart Product Analysis" /></a>
+<br /><br />
+<b>Walmart Product Analysis</b>
+<br /><br />
+Retail analytics dashboard with Power BI revealing product performance, category profitability, and inventory optimization.
+<br /><br />
+<code>power-bi</code> <code>sales-analysis</code> <code>e-commerce</code> <code>dax-expression</code>
+<br /><br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/Walmart-Product-Analysis-Case-Study"><img src="https://img.shields.io/badge/View_Project-2185FE?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Project" /></a> <a href="https://www.walmart.com/"><img src="https://img.shields.io/badge/Learn_more-444444?style=flat-square" alt="Learn more" /></a>
+<br /><br />
+</td>
+<td width="50%" align="center" valign="top">
+<br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/MaxAB-Sales-Analysis-Case-Study"><img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/Maxab.svg" width="240" alt="MaxAB Sales Analysis" /></a>
+<br /><br />
+<b>MaxAB Sales Analysis</b>
+<br /><br />
+Comprehensive sales analytics dashboard for MaxAB, Egypt's leading B2B e-commerce platform.
+<br /><br />
+<code>power-bi</code> <code>sales-analysis</code> <code>b2b</code> <code>dax-expression</code>
+<br /><br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/MaxAB-Sales-Analysis-Case-Study"><img src="https://img.shields.io/badge/View_Project-2185FE?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Project" /></a> <a href="https://www.maxab.io/"><img src="https://img.shields.io/badge/Learn_more-444444?style=flat-square" alt="Learn more" /></a>
+<br /><br />
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/Elezaby-Pharmacy-e-commerce-digital-analysis-Case-study"><img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/ElEzaby.svg" width="240" alt="El Ezaby Pharmacy Digital Analytics" /></a>
+<br /><br />
+<b>El Ezaby Pharmacy Digital Analytics</b>
+<br /><br />
+Digital analytics solution for El Ezaby Pharmacy, focusing on e-commerce performance and customer journey.
+<br /><br />
+<code>power-bi</code> <code>e-commerce</code> <code>pharmacy</code> <code>digital-analytics</code>
+<br /><br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/Elezaby-Pharmacy-e-commerce-digital-analysis-Case-study"><img src="https://img.shields.io/badge/View_Project-2185FE?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Project" /></a> <a href="https://elezabypharmacy.com/"><img src="https://img.shields.io/badge/Learn_more-444444?style=flat-square" alt="Learn more" /></a>
+<br /><br />
+</td>
+<td width="50%" align="center" valign="top">
+<br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/Abawb.ai-Financial-TRX-200"><img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/Abwab-ai.svg" width="240" alt="Abwab.AI Financial TRX 200" /></a>
+<br /><br />
+<b>Abwab.AI Financial TRX 200</b>
+<br /><br />
+Financial transaction analysis and monitoring dashboard for Abwab.AI, providing fraud detection indicators.
+<br /><br />
+<code>power-bi</code> <code>financial-analytics</code> <code>fraud-detection</code>
+<br /><br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/Abawb.ai-Financial-TRX-200"><img src="https://img.shields.io/badge/View_Project-2185FE?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Project" /></a> <a href="https://abwab.ai/"><img src="https://img.shields.io/badge/Learn_more-444444?style=flat-square" alt="Learn more" /></a>
+<br /><br />
+</td>
+</tr>
+</table>
 
 ---
 
-## Freelance Projects
+## Paid Tasks (Upwork)
 
-| | Project | Description |
-| :---: | :--- | :--- |
-| <img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/Upwork.svg" width="120" alt="Upwork" /> | [HR Database Solution](https://github.com/MAHMOUD2ABDALLAH/HR-Database) | HR database analytics, employee insights and workforce reporting. |
-| <img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/Upwork.svg" width="120" alt="Upwork" /> | [Furniture Sales Analytics](https://github.com/MAHMOUD2ABDALLAH/furniture-Sales) | Sales performance dashboard and data analysis for a furniture business. |
-| <img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/Upwork.svg" width="120" alt="Upwork" /> | [Family Members Segmentation](https://github.com/MAHMOUD2ABDALLAH/family-members-segmentation) | Customer segmentation for family-based membership programs. |
-| <img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/Upwork.svg" width="120" alt="Upwork" /> | [Bike Sales Analytics](https://github.com/MAHMOUD2ABDALLAH/Bike-Sales) | Bike sales performance and revenue analysis. |
-| <img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/Upwork.svg" width="120" alt="Upwork" /> | [Market Share Prices](https://github.com/MAHMOUD2ABDALLAH/Market-share-prices) | Share price tracking, trend analysis and competitor benchmarking. |
-| <img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/Upwork.svg" width="120" alt="Upwork" /> | [Automotive EDA](https://github.com/MAHMOUD2ABDALLAH/Automotive-EDA) | Exploratory analysis of automotive pricing, performance and market trends. |
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+<br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/HR-Database"><img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/Upwork.svg" width="200" alt="Upwork" /></a>
+<br /><br />
+<b>HR Database Solution</b>
+<br /><br />
+HR database analytics, employee insights & workforce reporting.
+<br /><br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/HR-Database"><img src="https://img.shields.io/badge/View_Project-2185FE?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Project" /></a>
+<br /><br />
+</td>
+<td width="33%" align="center" valign="top">
+<br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/furniture-Sales"><img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/Upwork.svg" width="200" alt="Upwork" /></a>
+<br /><br />
+<b>Furniture Sales Analytics</b>
+<br /><br />
+Sales performance dashboard & data analysis for a furniture business.
+<br /><br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/furniture-Sales"><img src="https://img.shields.io/badge/View_Project-2185FE?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Project" /></a>
+<br /><br />
+</td>
+<td width="33%" align="center" valign="top">
+<br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/family-members-segmentation"><img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/Upwork.svg" width="200" alt="Upwork" /></a>
+<br /><br />
+<b>Family Members Segmentation</b>
+<br /><br />
+Customer segmentation analysis for family-based membership programs.
+<br /><br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/family-members-segmentation"><img src="https://img.shields.io/badge/View_Project-2185FE?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Project" /></a>
+<br /><br />
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+<br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/Bike-Sales"><img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/Upwork.svg" width="200" alt="Upwork" /></a>
+<br /><br />
+<b>Bike Sales Analytics</b>
+<br /><br />
+Comprehensive bike sales performance & revenue analysis.
+<br /><br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/Bike-Sales"><img src="https://img.shields.io/badge/View_Project-2185FE?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Project" /></a>
+<br /><br />
+</td>
+<td width="33%" align="center" valign="top">
+<br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/Market-share-prices"><img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/Upwork.svg" width="200" alt="Upwork" /></a>
+<br /><br />
+<b>Market Share Prices</b>
+<br /><br />
+Market share price tracking, trend analysis & competitor benchmarking.
+<br /><br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/Market-share-prices"><img src="https://img.shields.io/badge/View_Project-2185FE?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Project" /></a>
+<br /><br />
+</td>
+<td width="33%" align="center" valign="top">
+<br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/Automotive-EDA"><img src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/MAHMOUD2ABDALLAH.github.io/main/Upwork.svg" width="200" alt="Upwork" /></a>
+<br /><br />
+<b>Automotive EDA</b>
+<br /><br />
+Exploratory data analysis on automotive data covering pricing, performance, and market trends.
+<br /><br />
+<a href="https://github.com/MAHMOUD2ABDALLAH/Automotive-EDA"><img src="https://img.shields.io/badge/View_Project-2185FE?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Project" /></a>
+<br /><br />
+</td>
+</tr>
+</table>
